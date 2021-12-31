@@ -1,0 +1,1 @@
+web: gunicorn LAUNDRY.wsgi --log-file -
